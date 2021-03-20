@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hurin</h1>
 <h3 align="center">Full Stack Developer</h3>
-<h3 align="center">🇳🇿 Auckland</h3>
+<h3 align="center">🇳🇿 Wellington</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hurinhu" alt="hurinhu" /></a> </p>
 
