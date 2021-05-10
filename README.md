@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <h3 align="center">🇳🇿 Wellington</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hurinhu&title=MultiLanguage,Commit,Followers,PullRequest,Repositories,Star" alt="hurinhu" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hurinhu&title=MultiLanguage,Commit,Followers,PullRequest,Repositories,Star" alt="hurinhu" /> </p>
 
 <table border="0">
   <tr  border="0">
