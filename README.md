@@ -20,7 +20,7 @@
 <a href="mailto:hurin@live.ca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="hurin@live.ca" height="30" width="40" /></a> 
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurinhu&langs_count=6&show_icons=true&count_private=true" alt="hurinhu" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurinhu&langs_count=8&show_icons=true&count_private=true&hide=PHP" alt="hurinhu" /></p>
 
 <h3 align="left">Open Source:</h3>
 <p align="left">
