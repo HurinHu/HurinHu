@@ -20,6 +20,8 @@
 <h3 align="left">Open Source:</h3>
 <p align="left">
   
+  - <a href="https://github.com/Iceloof/IB-ClientPortal-Gateway" target="_blank">IB CP Gateway</a>:  &nbsp;<a href="https://pypi.org/project/ib-cp-gateway/" target="blank"><img align="center" src="https://img.shields.io/pypi/v/ib-cp-gateway" alt="ib-cp-gateway" height="24" /></a> <a href="https://pypistats.org/packages/ig-trading-api" target="blank"><img align="center" src="https://img.shields.io/pypi/dm/ig-trading-api" alt="ig-trading-api" height="24" /></a>
+  
   - <a href="https://github.com/Iceloof/IG-API" target="_blank">IG Trading API</a>:  &nbsp;<a href="https://pypi.org/project/ig-trading-api/" target="blank"><img align="center" src="https://img.shields.io/pypi/v/ig-trading-api" alt="ig-trading-api" height="24" /></a> <a href="https://pypistats.org/packages/ig-trading-api" target="blank"><img align="center" src="https://img.shields.io/pypi/dm/ig-trading-api" alt="ig-trading-api" height="24" /></a>
   
   - <a href="https://github.com/Iceloof/RealtimeStock" target="_blank">RealtimeStock</a>:  &nbsp;<a href="https://pypi.org/project/RealtimeStock/" target="blank"><img align="center" src="https://img.shields.io/pypi/v/RealtimeStock" alt="RealtimeStock" height="24" /></a> <a href="https://pypistats.org/packages/realtimestock" target="blank"><img align="center" src="https://img.shields.io/pypi/dm/RealtimeStock" alt="RealtimeStock" height="24" /></a>
