@@ -37,8 +37,7 @@
   - <a href="https://github.com/Iceloof/Reuters" target="_blank">Reuters</a>:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pypi.org/project/Reuters/" target="blank"><img align="center" src="https://img.shields.io/pypi/v/Reuters" alt="Reuters" height="24" /></a> <a href="https://pypistats.org/packages/reuters" target="blank"><img align="center" src="https://img.shields.io/pypi/dm/Reuters" alt="Reuters" height="24" /></a>
 
   - <a href="https://github.com/Iceloof/PointInPolygon" target="_blank">PointInPolygon</a>:  <a href="https://pypi.org/project/PointInPolygon/" target="blank"><img align="center" src="https://img.shields.io/pypi/v/PointInPolygon" alt="Reuters" height="24" /></a> <a href="https://pypistats.org/packages/pointinpolygon" target="blank"><img align="center" src="https://img.shields.io/pypi/dm/PointInPolygon" alt="Reuters" height="24" /></a>
-  
-  - <a href="https://chrome.google.com/webstore/detail/nz-visa-autocheck/dfgedppkjbfhajiimempjjbhcgnhjdgb?hl=en-GB" target="_blank">NZ VISA AutoCheck</a>
+
   
 </p>
 
