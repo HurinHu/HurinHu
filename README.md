@@ -42,6 +42,8 @@
 
   - <a href="https://github.com/Iceloof/PointInPolygon" target="_blank">PointInPolygon</a>:  <a href="https://pypi.org/project/PointInPolygon/" target="blank"><img align="center" src="https://img.shields.io/pypi/v/PointInPolygon" alt="Reuters" height="24" /></a> <a href="https://pypistats.org/packages/pointinpolygon" target="blank"><img align="center" src="https://img.shields.io/pypi/dm/PointInPolygon" alt="Reuters" height="24" /></a>
 
+  - <a href="https://github.com/Iceloof/ember-relationship-tracker" target="_blank">Ember Relationship Tracker</a>:  <a href="https://www.npmjs.com/package/ember-relationship-tracker" target="blank"><img align="center" src="https://img.shields.io/npm/v/ember-relationship-tracker" alt="Ember Relationship Tracker" height="24" /></a> <a href="https://npm-stat.com/charts.html?package=ember-relationship-tracker" target="blank"><img align="center" src="https://img.shields.io/npm/dm/ember-relationship-tracker" alt="Reuters" height="24" /></a>
+
   
 </p>
 
